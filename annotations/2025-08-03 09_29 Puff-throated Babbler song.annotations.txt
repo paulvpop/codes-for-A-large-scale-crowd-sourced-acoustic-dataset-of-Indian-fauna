@@ -1,0 +1,9 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Scientific Name
+1	Spectrogram 1	1	1.900754039	3.360533141	2726.1	5831.7	Pellorneum ruficeps
+2	Spectrogram 1	1	6.766684380	7.876724739	0.0	5348.6	Homo sapiens
+3	Spectrogram 1	1	9.032383195	10.583398491	2346.5	5831.7	Pellorneum ruficeps
+4	Spectrogram 1	1	12.575388724	13.822283373	1794.4	5245.1	Pellorneum ruficeps
+5	Spectrogram 1	1	15.981539962	16.696223481	2519.0	5279.6	Pellorneum ruficeps
+6	Spectrogram 1	1	17.456525097	19.387691200	517.6	2312.0	Corvus splendens
+7	Spectrogram 1	1	18.520947359	19.372485168	2588.0	4865.5	Pellorneum ruficeps
+8	Spectrogram 1	1	19.445102731	22.683987614	2312.0	5003.5	Orthotomus sutorius

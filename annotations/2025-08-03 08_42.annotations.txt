@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Scientific Name
+1	Spectrogram 1	1	0.693978986	1.786353317	1863.4	4831.0	Dicrurus macrocercus
+2	Spectrogram 1	1	3.762165563	5.307016156	1518.3	5279.6	Dicrurus macrocercus
+3	Spectrogram 1	1	8.796020200	9.813804121	1897.9	4831.0	Dicrurus macrocercus
+4	Spectrogram 1	1	11.113296091	13.457834050	1173.2	5176.1	Dicrurus macrocercus
+5	Spectrogram 1	1	13.703192674	14.348394980	2173.9	5245.1	Spilopelia senegalensis
+6	Spectrogram 1	1	14.775500733	16.792893860	1035.2	5383.1	Dicrurus macrocercus

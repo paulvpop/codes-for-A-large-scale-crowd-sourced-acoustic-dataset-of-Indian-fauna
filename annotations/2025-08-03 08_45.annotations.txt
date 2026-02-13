@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Scientific Name
+1	Spectrogram 1	1	4.316728687	5.626136389	3071.1	7557.0	Prinia hodgsonii
+2	Spectrogram 1	1	9.482414016	11.180327300	2967.6	7867.6	Prinia hodgsonii
