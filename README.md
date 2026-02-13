@@ -1,0 +1,2 @@
+# codes-for-A-large-scale-crowd-sourced-acoustic-dataset-of-Indian-fauna
+This repository contains two scripts (and associated files): i) R script to turn annotation and audio files into files for submission to the IEN wildlife acoustics dataset project (automated workflow). ii) R script for data preparation/processing and creation of figures for the paper "A large-scale crowd-sourced acoustic dataset of Indian fauna"
